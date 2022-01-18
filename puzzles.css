@@ -1,0 +1,48 @@
+@import 'style.css';
+
+.home_data2 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.home_data3 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.home_data4 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.home_data5 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.home_data6 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.home_data7 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.home_data8 {
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+}
+
+.homecontainer_container_grid2 {
+    padding-left: 120px; 
+    padding-top: 30px;
+}
